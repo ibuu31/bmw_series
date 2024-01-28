@@ -1,0 +1,4 @@
+#Sat Jan 27 18:21:46 IST 2024
+base.0=C\:\\Users\\91760\\AndroidStudioProjects\\bmw_series\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
